@@ -19,7 +19,7 @@ Powered by **natural language processing (NLP)** and enhanced with APIs, Passion
 
 ## 📌 Table of Contents  
 - [🚀 Features](#-features)  
-- [🛠️ Bot Anatomy](#-bot-anatomy)  
+- [🖤 Bot Anatomy](#-bot-anatomy)  
 - [💡 How It Works](#-how-it-works)  
 - [📌 Deployment Platforms](#-deployment-platforms)    
 - [📜 License](#-license)  
@@ -38,7 +38,7 @@ Powered by **natural language processing (NLP)** and enhanced with APIs, Passion
 
 ---
 
-## 🛠️ Bot Anatomy  
+## 🖤 Bot Anatomy 
 
 Passion is a **node-based chatbot**, meaning that conversations flow from **one entry point** to another based on **user actions**. Below is the core architecture:  
 
