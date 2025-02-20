@@ -22,7 +22,7 @@ Powered by **natural language processing (NLP)** and enhanced with APIs, Passion
 - [🖤 Bot Anatomy](#-bot-anatomy)  
 - [💡 How It Works](#-how-it-works)  
 - [📌 Deployment Platforms](#-deployment-platforms)    
-- [📜 License](#-license)  
+- [📝 License](#-license)  
 
 ---
 
@@ -104,7 +104,7 @@ Passion is deployed across three platforms, each offering different levels of fu
 For the **best experience**, use Passion’s **website version**, as it supports **all features** without platform limitations.  
 
 ---
-## License  
+## 📝 License  
 
 Copyright (c) 2025 Tinotenda Mhedziso. All Rights Reserved.
 
