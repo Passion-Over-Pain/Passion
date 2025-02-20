@@ -39,7 +39,7 @@ Powered by **natural language processing (NLP)** and enhanced with APIs, Passion
 
 ---
 
-## 🛠️ Botpress Anatomy  
+## 🛠️ Bot Anatomy  
 
 Passion is a **node-based chatbot**, meaning that conversations flow from **one entry point** to another based on **user actions**. Below is the core architecture:  
 
@@ -97,9 +97,9 @@ Passion is deployed across three platforms, each offering different levels of fu
 
 | Platform            | Description | Features | Limitations |
 |---------------------|-------------|-----------|-------------|
-| **Botpress Cloud** (Native Link) | The default hosting option for quick testing and deployment. | - Basic chatbot functionality | - Limited customization |
-| **Website Integration** (Recommended) | Hosted on my personal website, offering the most advanced functionality. | - Email interactions (send/receive) <br> - Speech recognition (convert speech to text) <br> - Music playback <br> - Database queries & API integrations | - None (Best experience) |
-| **WhatsApp Business** | Integrated via a **WhatsApp Business account**, best for quick, text-based interactions. | - Supports standard chatbot conversations | - Limited multimedia support <br> - No speech recognition or music playback |
+| **Botpress Cloud** (Native Link) | The default hosting option for quick testing and deployment. | 🔹 Basic chatbot functionality | 🔹 Limited customization |
+| **Website Integration** (Recommended) | Hosted on my personal website, offering the most advanced functionality. | 🔹 Email interactions (send/receive) <br> 🔹 Speech recognition (convert speech to text) <br> 🔹 Music playback <br> 🔹 Database queries & API integrations | 🔹 None (Best experience) |
+| **WhatsApp Business** | Integrated via a **WhatsApp Business account**, best for quick, text-based interactions. | 🔹 Supports standard chatbot conversations | 🔹 Limited multimedia support <br> 🔹 No speech recognition or music playback |
 
 📌 **Recommendation:**  
 For the **best experience**, use Passion’s **website version**, as it supports **all features** without platform limitations.  
@@ -110,33 +110,7 @@ For the **best experience**, use Passion’s **website version**, as it supports
 Copyright (c) 2025 Tinotenda Mhedziso. All Rights Reserved.
 
 This software, its source code, and all related materials are proprietary and owned solely by [Tinotenda Mhedziso].  
-Unauthorized copying, modification, distribution, or resale of this software, in whole or in part, is strictly prohibited.  
-
-### 1. Ownership & Usage
-- This chatbot and all its components (including AI responses, code, and branding) are the exclusive property of [Your Name].  
-- Users are **permitted to interact** with the chatbot but **may not** claim ownership or redistribute its outputs.  
-- All conversations with Passion **may be stored** for analytics and improvements but are **only visible to the owner**.  
-
-### 2. Restrictions  
-You **MAY NOT**:
-❌ Modify, copy, distribute, resell, or host this chatbot without explicit written permission.  
-❌ Reverse-engineer, decompile, or attempt to extract its source code.  
-❌ Use this chatbot for **commercial gain** or integrate it into third-party services.  
-❌ Use this chatbot to generate or spread **harmful, offensive, or illegal content**.  
-
-### 3. User Responsibilities  
-✅ Users **must** remain respectful when interacting with Passion.  
-✅ Users **must not** share sensitive personal information (e.g., passwords, financial details) through the chatbot. <br>
-✅ The chatbot **is not responsible for any decisions made based on its responses**—it is an AI assistant, not a human expert.  
-
-### 4. Privacy & Data Protection  
-- Conversations are logged **only for internal improvements** and are **not shared with third parties**.  
-- No personal data is collected, stored, or sold.  
-- [Tinotenda Mhedziso] reserves the right to **restrict access** to users who violate these terms.  
-
-### 5. Legal Enforcement  
-Violation of these terms may result in **legal action**. 
-
+Unauthorized copying, modification, distribution, or resale of this software, in whole or in part, is strictly prohibited. Please see the LICENSE file.
 
 ---
 <p align="center" style="font-family: 'Times New Roman', serif;">
