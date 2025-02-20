@@ -19,10 +19,9 @@ Powered by **natural language processing (NLP)** and enhanced with APIs, Passion
 
 ## 📌 Table of Contents  
 - [🚀 Features](#-features)  
-- [🛠️ Botpress Anatomy](#️-botpress-anatomy)  
+- [🛠️ Bot Anatomy](#-bot-anatomy)  
 - [💡 How It Works](#-how-it-works)  
-- [📌 Deployment Platforms](#-deployment-platforms)  
-- [📖 Setup & Installation](#-setup--installation)  
+- [📌 Deployment Platforms](#-deployment-platforms)    
 - [📜 License](#-license)  
 
 ---
