@@ -20,7 +20,8 @@ Powered by **natural language processing (NLP)** and enhanced with APIs, Passion
 ## 📌 Table of Contents  
 - [🚀 Features](#-features)  
 - [🖤 Bot Anatomy](#-bot-anatomy)  
-- [💡 How It Works](#-how-it-works)  
+- [💡 How It Works](#-how-it-works)
+- [🎭 Modes of Interaction](#-modes-of-interaction) 
 - [📌 Deployment Platforms](#-deployment-platforms)    
 - [📝 License](#-license)  
 
@@ -87,6 +88,17 @@ Passion operates as a **node-based chatbot**, meaning conversations follow a **s
 
 5️⃣ **Real-time response generation**  
    - Using **GPT-4 and NLP techniques**, Passion **understands context** and responds dynamically.
+
+---
+## 🎭 Modes of Interaction  
+
+Passion offers three distinct modes of interaction, each tailored for a unique user experience:  
+
+| Mode          | Description |
+|--------------|------------|
+| **Story Mode** 🏰 | A structured, guided conversation flow with predefined questions and choices. Best for interactive storytelling, onboarding, and structured dialogues where users progress through a designed path. |
+| **Sandbox Mode** 🧩 | An open-ended Q&A experience where users can freely ask questions and receive AI-driven responses. Ideal for general inquiries, discussions, and dynamic problem-solving. |
+| **Action Mode** ⚡ | A specialized mode where Passion performs actions beyond regular conversation, such as sending emails, playing music, executing database queries, and interacting with APIs. Designed for task execution and automation. |
 
 ---
 
