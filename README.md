@@ -7,7 +7,7 @@
 Powered by **natural language processing (NLP)** and enhanced with APIs, Passion can:  
 ✅ Recognize and convert English **speech to text**  
 ✅ Send and receive **emails**  
-✅ Play **music** on demand  [Website Only]
+✅ Play **music** on demand  [Website Only] <br>
 ✅ **Query databases** for real-time information  
 ✅ **Integrate with APIs & webhooks** for enhanced automation  
 
