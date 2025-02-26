@@ -123,6 +123,9 @@ Copyright (c) 2025 Tinotenda Mhedziso. All Rights Reserved.
 This software, its source code, and all related materials are proprietary and owned solely by [Tinotenda Mhedziso].  
 Unauthorized copying, modification, distribution, or resale of this software, in whole or in part, is strictly prohibited. Please see the LICENSE file.
 
+> [!Tip]
+> _In creation, you give a part of yourself, and in doing so, you offer something beautiful—not perfect, but uniquely yours, meant to be cherished_.
+
 ---
 <p align="center" style="font-family: 'Times New Roman', serif;">
   <a href="https://dev.to/passionoverpain">Dev.to</a> |
