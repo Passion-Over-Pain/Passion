@@ -1,1 +1,0 @@
-alert("Hey there! 😆 Just a heads-up—this repository does not store the bot’s actual files. It simply acts as a placeholder to indicate that this is a JavaScript-based application. 🚀");

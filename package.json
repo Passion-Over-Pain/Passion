@@ -1,0 +1,13 @@
+{
+    "name": "passion",
+    "version": "1.0.0",
+    "description": "A simple JavaScript bot placeholder",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Tinotenda Mhedziso",
+    "license": "MIT",
+    "website" : "https://tinotenda-mhedziso.pages.dev/"
+  }
+  
